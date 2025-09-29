@@ -1,4 +1,4 @@
-# Visual Song Manager 🎶✨
+# Rendermap 🎶✨
 
 A personal project exploring a new way to organize and navigate music ideas.  
 Inspired by tools like Obsidian, it provides a 2D visual map of audio exports from DAWs (Digital Audio Workstations) for inspiration and quick access.
