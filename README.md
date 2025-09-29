@@ -22,8 +22,8 @@ Inspired by tools like Obsidian, it provides a 2D visual map of audio exports fr
 
 ## 📸 Screenshots
 
-![Main view](screenshot1.png)
-![Idea map](screenshot2.png)
+![Main view](assets/screenshot1.png)
+![Main view2](assets/screenshot2.png)
 
 ---
 
