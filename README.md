@@ -6,11 +6,11 @@ Inspired by tools like Obsidian, it provides a 2D visual map of audio exports fr
 ---
 
 ## 🚀 Features
-- 2D viewport to display and connect audio snippets ("galaxy of songs")  
-- Ability to add comments and metadata to each idea  
-- Visual navigation for inspiration and creative workflow  
-- Conceptual prototype aimed at streamlining music idea management  
-
+- Auto-detects DAW export files based on keywords (e.g., "render")  
+- 2D viewport to navigate and connect music ideas visually  
+- Optional chronological view to quickly track the evolution of projects  
+- Add comments and metadata to each idea for better organization
+- 
 ---
 
 ## 🛠 Tech Stack
